@@ -1,4 +1,4 @@
-# 🚦 University Traffic Analysis Dashboard
+# 🚦 Traffic Analysis Dashboard
 
 ## 📊 Dashboard Link
 [University Traffic Dashboard](https://app.powerbi.com/groups/me/reports/c97c52fe-05c9-465d-9dbd-7cc8f0890a47/9634358e52330208548b?experience=power-bi)
